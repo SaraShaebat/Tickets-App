@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\ticketswebapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|solutionrelative:ticketswebapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\ticketswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|solutionrelative:ticketswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\ticketswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|solutionrelative:ticketswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\ticketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\ticketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\commentmanegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\commentmanegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\ticketswebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6941FE-52A1-4EE0-A5E6-480BAE74D1B9}|TicketsWebApp\\TicketsWebAppPresentationLayer.csproj|solutionrelative:ticketswebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\ticketresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\ticketresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\ticketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\ticketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\tickettypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\tickettypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\commentresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\commentresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0219A90-ABB3-4F18-8175-0981E3C4A811}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\dataaccesslayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0219A90-ABB3-4F18-8175-0981E3C4A811}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\tickettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\tickettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\userresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\userresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\userticketresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\userticketresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\tickettyperesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\tickettyperesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\statusresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\statusresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\serviceresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\serviceresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\resources\\companyresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\resources\\companyresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\userticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\userticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\prioritydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\prioritydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\userticketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\userticketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\tickettypemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\tickettypemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\statusmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\statusmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\servicemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\servicemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\companymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\companymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\mapping\\prioritymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\prioritymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0219A90-ABB3-4F18-8175-0981E3C4A811}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\dataaccesslayer\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0219A90-ABB3-4F18-8175-0981E3C4A811}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0219A90-ABB3-4F18-8175-0981E3C4A811}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\dataaccesslayer\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0219A90-ABB3-4F18-8175-0981E3C4A811}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\companymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\companymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\prioritymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\prioritymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\statusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\statusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\userticketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\userticketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\e-life center\\source\\repos\\ticketswebapp\\businesslogiclayer\\manegers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291E0C2-3369-48C9-BB7A-E711A3C0C50B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\manegers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketsWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\appsettings.json",
+              "RelativeToolTip": "TicketsWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T08:34:29.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "TicketsWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\Program.cs",
+              "RelativeToolTip": "TicketsWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:34:24.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\TicketManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\TicketManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\TicketManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\TicketManager.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:42:18.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\TicketDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\TicketDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\TicketDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\TicketDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:05.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\TicketMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\TicketMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\TicketMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\TicketMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:46:56.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "TicketsWebApp\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "TicketsWebApp\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:34:42.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\TicketResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\TicketResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\TicketResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\TicketResource.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:45:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "TicketsWebApp\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\TicketsWebApp\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "TicketsWebApp\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:51:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketTypeManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\TicketTypeManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\TicketTypeManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\TicketTypeManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\TicketTypeManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwFUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:03:28.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentManegers.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\CommentManegers.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\CommentManegers.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\CommentManegers.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\CommentManegers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:02:34.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\CommentResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\CommentResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\CommentResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\CommentResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:52:36.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\CommentMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\CommentMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\CommentMapper.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:45:34.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\DataAccessLayer\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\DataAccessLayer\\Entities\\Comment.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:39:29.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\CommentDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:50:21.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\TicketTypeDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\TicketTypeDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\TicketTypeDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\TicketTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\UserResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\UserResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\UserResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\UserResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:44.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserTicketResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\UserTicketResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\UserTicketResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\UserTicketResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\UserTicketResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:47.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketTypeResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\TicketTypeResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\TicketTypeResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\TicketTypeResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\TicketTypeResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:42.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StatusResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\StatusResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\StatusResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\StatusResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\StatusResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:35.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CompanyResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\CompanyResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\CompanyResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\CompanyResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\CompanyResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:32.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserTicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\UserTicketDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\UserTicketDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\UserTicketDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\UserTicketDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:24.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\UserDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:22.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\ServiceDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\ServiceDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\ServiceDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\ServiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:03.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PriorityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\PriorityDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\PriorityDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\PriorityDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\PriorityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:01.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceResource.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\ServiceResource.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Resources\\ServiceResource.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Resources\\ServiceResource.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Resources\\ServiceResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:54:28.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\CompanyDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\CompanyDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\CompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:13:59.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\StatusDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\StatusDTO.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Dtos\\StatusDTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\StatusDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:01:43.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:47:17.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TicketTypeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\TicketTypeMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\TicketTypeMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\TicketTypeMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\TicketTypeMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:47:08.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StatusMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\StatusMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\StatusMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\StatusMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\StatusMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:46:47.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\ServiceMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\ServiceMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\ServiceMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\ServiceMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:46:36.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserTicketMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\UserTicketMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\UserTicketMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\UserTicketMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\UserTicketMapper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:47:33.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CompanyMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\CompanyMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\CompanyMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\CompanyMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\CompanyMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:46:15.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PriorityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\PriorityMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\PriorityMapper.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Mapping\\PriorityMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\PriorityMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:46:26.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\DataAccessLayer\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\DataAccessLayer\\Entities\\Ticket.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:35:59.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\DataAccessLayer\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Status.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\DataAccessLayer\\Entities\\Status.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:02:10.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\ServiceManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\ServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:03:05.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StatusManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\StatusManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\StatusManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\StatusManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\StatusManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:03:11.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PriorityManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\PriorityManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\PriorityManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\PriorityManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\PriorityManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:02:39.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CompanyManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\CompanyManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\CompanyManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\CompanyManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\CompanyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:02:45.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserTicketManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\UserTicketManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\UserTicketManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\UserTicketManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\UserTicketManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:03:38.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\UserManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Manegers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\e-life center\\source\\repos\\TicketsWebApp\\BusinessLogicLayer\\Manegers\\UserManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Manegers\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:03:34.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
